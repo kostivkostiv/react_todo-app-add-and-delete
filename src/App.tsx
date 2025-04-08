@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Header } from './components/Header/Header';
 import { TodoList } from './components/TodoList/TodoList';
 import { ErrorMessage, Filterby, Todo } from './types/Todo';
